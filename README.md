@@ -1,4 +1,4 @@
-# OkskoeAutomationOfOCR
+# PROEKT_DLYA_YAICHEK
 Да, это нейронка, которая обучает нейронку!
 Главный скрипт здесь - recognitionByColorMaskingFinalWriteToFile.py
 Ему надо лишь парочку картинок с названием sample<№>.jpg* с ним в папке и он будет писать свои мемуары в AllTrainData.txt, * <№> = {1...бесконечность}
